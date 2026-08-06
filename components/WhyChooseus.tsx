@@ -2,13 +2,15 @@ export default function WhyChoose() {
   const features = [
     {
       emoji: "🍯",
-      title: "100% Pure",
+      title: "100% Pure", color:"black",
       text: "No additives, preservatives or artificial sweeteners.",
+      
     },
     {
       emoji: "🌿",
-      title: "Natural",
+      title: "Natural", color:"black",
       text: "Harvested directly from trusted beekeepers.",
+
     },
     {
       emoji: "🚚",
@@ -17,7 +19,7 @@ export default function WhyChoose() {
     },
     {
       emoji: "❤️",
-      title: "Trusted Quality",
+      title: "Trusted Quality", color:"black",
       text: "Loved by families who want real natural honey.",
     },
   ];
