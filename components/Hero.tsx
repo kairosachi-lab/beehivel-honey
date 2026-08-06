@@ -58,7 +58,7 @@ export default function Hero() {
         <div className="flex justify-center">
 
           <Image
-            src="/images/big-honey.jpg"
+            src="/images/LOGO.png"
             alt="Beehivel Honey"
             width={450}
             height={600}
