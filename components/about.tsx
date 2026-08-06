@@ -7,7 +7,7 @@ export default function About() {
 
         <div className="flex justify-center">
           <Image
-            src="/images/big-honey.jpg"
+            src="/images/honey 1.jpg"
             alt="Beehivel Honey"
             width={380}
             height={500}

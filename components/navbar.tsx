@@ -40,7 +40,7 @@ export default function Navbar() {
         }}
       >
         <Image
-          src="/images/logo.png"
+          src="/images/LOGO.png"
           alt="Beehivel Logo"
           width={45}
           height={45}
